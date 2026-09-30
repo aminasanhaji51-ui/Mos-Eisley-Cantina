@@ -1,0 +1,3 @@
+Ajoute class="dark" sur <html> et redéfinissez le style des sections hero, menu et musique live avec des variantes Tailwind dark: pour que la page ressemble à la Cantina après le coucher du soleil. Ajoutez une petite pilule ou étiquette "After dark" dans la navigation pour que le thème semble intentionnel. Pas de bouton bascule et pas de JavaScript : vous livrez un aspect thème sombre définitif sur cette branche.
+
+Faites en sorte que la <nav> reste fixée en haut de la fenêtre d'affichage (sticky top-0) avec une ombre subtile (shadow-md). Ajoutez scroll-smooth sur <html> et liez les liens de navigation aux #menu et #live-music avec des ancres href simples. Vérifiez que la navigation collante ne masque pas les cibles d'ancrage lorsque vous cliquez sur un lien.
